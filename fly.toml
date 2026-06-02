@@ -4,7 +4,7 @@
 #
 
 app = 'fly-polymarket-proxy-btor4w'
-primary_region = 'arn'
+primary_region = 'ams'
 
 [build]
 
