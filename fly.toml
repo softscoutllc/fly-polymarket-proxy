@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for fly-polymarket-proxy-btor4w on 2026-05-04T16:11:34Z
+# fly.toml app configuration file generated for fly-polymarket-proxy-v01nnq on 2026-06-02T22:46:11Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'fly-polymarket-proxy-btor4w'
+app = 'fly-polymarket-proxy-v01nnq'
 primary_region = 'ams'
 
 [build]
